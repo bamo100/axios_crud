@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Olagoke bankole1",
+      "username": "bamo1",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "2",
+      "name": "Olagoke bankole2",
+      "username": "bamo2",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "3",
+      "name": "Olagoke bankole3",
+      "username": "bamo3",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "4",
+      "name": "Olagoke bankole4",
+      "username": "bamo4",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "5",
+      "name": "Olagoke bankole5",
+      "username": "bamo5",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "6",
+      "name": "Olagoke bankole6",
+      "username": "bamo6",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "7",
+      "name": "Olagoke bankole7",
+      "username": "bamo7",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "8",
+      "name": "Olagoke bankole80",
+      "username": "bamo8",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "9",
+      "name": "Olagoke bankole9",
+      "username": "bamo9",
+      "email": "bamo@gmail.com",
+      "phone": "090764356224444",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "10",
+      "name": "Olagoke bankole10",
+      "username": "bamo10",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    },
+    {
+      "id": "11",
+      "name": "Olagoke bankole11 ",
+      "username": "bamo11",
+      "email": "bamo@gmail.com",
+      "phone": "09076435622",
+      "website": "bamo.com.ng"
+    }
+  ]
+}
